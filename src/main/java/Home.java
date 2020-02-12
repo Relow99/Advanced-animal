@@ -7,8 +7,8 @@ public class Home {
     }
 
     public void makeAllSounds() {
-        System.out.println("Barks");
-        System.out.println("meuw");
+        System.out.println("Dog Barks");
+        System.out.println("Cat meuw");
 
 
     }

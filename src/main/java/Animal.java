@@ -1,10 +1,10 @@
 public class Animal {
 
-    public void animalSound() {
+    public String animalSound() {
 
-        System.out.println("The animal makes a sound");
+        return "The animal makes a sound";
     }
-    public void eats() {
-        System.out.println("The animal eat");
+    public String eats() {
+        return "Food";
     }
 }
