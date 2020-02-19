@@ -1,5 +1,5 @@
 public class Home {
-
+ ArrayList<Animals> Pets = new ArrayList<>();
     public void adoptPet() {
         System.out.println("Dog");
         System.out.println("Cat");
